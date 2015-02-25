@@ -4,7 +4,7 @@ A Quickstart Guide to Using the Jinja2 Template Engine by  Bryan Hill (kagerato)
 #A Quickstart Guide to Using the Jinja2 Template Engine
 
 #[This original article is © Copyright 2010-2012 Bryan Hill (kagerato)  
-##https://www.kagerato.net email him at kagerato[at]gmail.com.
+##http://www.kagerato.net email him at kagerato[at]gmail.com.
 
 view the original article here (http://kagerato.net/articles/software/libraries/jinja-quickstart.html)
 
